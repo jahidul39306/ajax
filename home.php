@@ -24,7 +24,7 @@
     &nbsp;&nbsp;
     <button type="submit" name="submitButton">Search</button>
     <br><br>
-    <table>
+    <table id = "t">
         <tr>
             <th>First name</th>
             <th>Last name</th>
